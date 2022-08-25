@@ -15,7 +15,7 @@ features: # 可选的
   - title: 后端
     details: django/MySQL，后端相关技术
     link: /backend/
-    imgUrl: /img/ui.png
+    imgUrl: /img/python.png
   - title: 技术
     details: 技术文档、教程、技巧、总结等文章
     link: /technology/
