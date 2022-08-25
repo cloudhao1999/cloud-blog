@@ -6,7 +6,7 @@ import dayjs from "dayjs";
 var baiduCode_default = "503f098e7e5b3a5b5d8c5fc2938af002";
 
 // docs/.vuepress/config.ts
-var DOMAIN_NAME = "xugaoyi.com";
+var DOMAIN_NAME = "cloudhao.top";
 var WEB_SITE = `https://${DOMAIN_NAME}`;
 var config_default = defineConfig4CustomTheme({
   theme: "vdoing",
