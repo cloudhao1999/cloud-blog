@@ -13,7 +13,7 @@ features: # 可选的
     link: /web/ # 可选
     imgUrl: /img/web.png # 可选
   - title: 后端
-    details: django/MySQL，后端相关技术
+    details: Django/MySQL，后端相关技术
     link: /backend/
     imgUrl: /img/python.png
   - title: 技术
