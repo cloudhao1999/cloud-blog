@@ -45,8 +45,14 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           {
             text: '学习笔记',
             items: [
-              { text: '《JavaScript教程》', link: '/note/javascript/' },
-              { text: '《React学习笔记》', link: '/note/react/' },
+              { text: 'JavaScript教程', link: '/note/javascript/' },
+              { text: 'React学习笔记', link: '/note/react/' },
+            ],
+          },
+          {
+            text: '开源项目',
+            items: [
+              { text: 'cloud-app-admin', link: '/pages/c125c3/' },
             ],
           },
         ],
@@ -64,7 +70,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           {
             text: '学习笔记',
             items: [
-              { text: '《MySQL学习笔记》', link: '/note/mysql/' },
+              { text: 'MySQL学习笔记', link: '/note/mysql/' },
             ],
           },
         ],
@@ -74,6 +80,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         link: '/technology/',
         items: [
           { text: '服务器部署', link: '/pages/cb3dd7/' },
+          { text: 'Linux', link: '/pages/f98114/' },
         ],
       },
       { text: '关于', link: '/about/' },
