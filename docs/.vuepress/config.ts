@@ -84,10 +84,10 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         ],
       },
       { text: '关于', link: '/about/' },
-      // {
-      //   text: '收藏',
-      //   link: '/pages/beb6c0bd8a66cea6/',
-      // },
+      {
+        text: '收藏',
+        link: '/pages/beb6c0bd8a66cea6/',
+      },
       {
         text: '索引',
         link: '/archives/',
