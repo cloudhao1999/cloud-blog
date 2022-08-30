@@ -88,6 +88,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         text: '收藏',
         link: '/pages/beb6c0bd8a66cea6/',
       },
+      { text: '友链', link: '/friends/' },
       {
         text: '索引',
         link: '/archives/',
