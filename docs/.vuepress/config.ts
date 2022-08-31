@@ -79,8 +79,17 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         text: '技术',
         link: '/technology/',
         items: [
-          { text: '服务器部署', link: '/pages/cb3dd7/' },
-          { text: 'Linux', link: '/pages/f98114/' },
+          {
+            text: '运维',
+            items: [
+              { text: '服务器部署', link: '/pages/cb3dd7/' },
+              { text: 'Linux', link: '/pages/f98114/' },
+            ]
+          },
+          { text: '日常学习', items: [
+            { text: '学习方法', link: '/pages/1800ab/' },
+          ]},
+          
         ],
       },
       { text: '关于', link: '/about/' },
