@@ -47,6 +47,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
             items: [
               { text: 'JavaScript教程', link: '/note/javascript/' },
               { text: 'React学习笔记', link: '/note/react/' },
+              { text: 'Electron学习笔记', link: '/note/electron/' },
             ],
           },
           {
