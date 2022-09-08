@@ -1,6 +1,6 @@
 ## 个人博客
 
-![homepage](https://git.poker/cloudhao1999/image-hosting/blob/master/20220826/iShot_2022-08-26_15.4gbz59ln3180.webp?raw=true)
+![homepage](https://cdn.staticaly.com/gh/cloudhao1999/image-hosting@master/20220908/image.1uq1nao0ci0w.webp)
 
 ## 在线体验
 
