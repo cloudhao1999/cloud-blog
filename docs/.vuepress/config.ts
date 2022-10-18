@@ -54,6 +54,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
             text: '开源项目',
             items: [
               { text: 'cloud-app-admin', link: '/pages/c125c3/' },
+              { text: '下班了吗Vscode插件', link: '/pages/00581f/' },
             ],
           },
         ],
