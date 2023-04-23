@@ -1,6 +1,6 @@
 ## 个人博客
 
-![homepage](https://cdn.staticaly.com/gh/cloudhao1999/image-hosting@master/20220908/image.1uq1nao0ci0w.webp)
+![homepage](static/img/bg.png)
 
 ## 在线体验
 
