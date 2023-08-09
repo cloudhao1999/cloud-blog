@@ -166,7 +166,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
     // 博主信息 (显示在首页侧边栏)
     blogger: {
-      avatar: 'https://mock.mengxuegu.com/upload/2022/06/15/252b977882b8830b10ff338850ae06b0.jpeg',
+      avatar: 'https://avatars.githubusercontent.com/u/32376445?v=4',
       name: '干巴爹兔',
       slogan: '卑微的前端打工人',
     },
